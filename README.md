@@ -1,37 +1,45 @@
-# Machine Imagination: Text to Image Generation with Neural Networks
+# Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
-U.Chicago [Digital Media Workshop](https://voices.uchicago.edu/digitalmedia/) and [Poetry and Poetics Workshop](https://voices.uchicago.edu/poetryandpoetics/) | 4-5:30pm CT, May 17, 2021
+Proposed for ISEA2020 Possibles. 
 
-Robert Twomey, Ph.D. | [roberttwomey.com](roberttwomey.com)
+Ash Smith | Story, Worlds, Speculative Design Lab, University of Nebraska—Lincoln  |[https://asheveryday.com/](https://asheveryday.com/)
+Robert Twomey, Ph.D. | Cohab Lab, University of Nebraska—Lincoln | [roberttwomey.com](roberttwomey.com)
 
 ---
 
 ## Description
 
-With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in image synthesis (BigGAN, StyleGAN), textual understanding (GPT-3), and other areas of text and image manipulation. This hands-on workshop introduces state-of-the-art techniques for text-to-image translation, where textual prompts are used to guide the generation of visual imagery. Participants will gain experience with Open AI's CLIP network and Google's BigGAN, using free Google Colab notebooks which they can apply to their own work after the event. We will discuss other relationships between text and image in art and literature; consider the strengths and limitations of these new techniques; and relate these computational processes to human language, perception, and visual expression and imagination. __Please bring a text you would like to experiment with!__
+With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodied. __Please bring a text you would like to experiment with!__
 
 ## Schedule
 
 |    Time    | Activity |
 |------------|----|
-| 4:00	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Adversarial Networks (GANs), Generative Text (Transformers). |
-| 4:10	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
-| 4:40	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
-| 5:00	| Hands on with CoLab: Interpolation and latent walks. |
-| 5:10	| Discussion, Future Directions | 
-| 5:30  | End |
+| 10:00	| Introductions
+| 10:30	| GPT-3 playground |
+| 11:30	| AI Writer's Rooms 1 |
+| 12:30 | Reconvene as large group |
+| 13:00	| ~ Lunch Break ~ |
+| 14:00	| AI Writer's Rooms 2| 
+| 15:00 | Reconvene |
+| 15:30 | Peformance Prep | 
+| 16:30 | Sound check / Rehearsal | 
+| 17:00 | Radio Show Performance Live Internet Transmission | 
 
 ## Notebooks
 
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
-
+<!--
 1. BigGAN - [BigGAN_handson.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb)
 2. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
 3. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/generate_from_stored.ipynb)
-4. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab)
+4. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab) -->
+1. Links and things
+2. To come here..
 
 ## Discussion
 
+Need real questions here:
 - How do words specify/suggest/evoke images? 
 - What do you see when you read? Are some texts more or less imagistic?
 - How can we use this artificial machine imagination to understand our human visual imagination? 
@@ -39,6 +47,9 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 - What would it mean to diversify machine imagination?
 
 ## References
+
+- Will list references to papers/etc. here 
+<!--
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
   - see the BigGAN hands-on notebook above to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
 - NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
@@ -49,6 +60,7 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 - OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
   - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
+-->
 
 ## Networks
 
