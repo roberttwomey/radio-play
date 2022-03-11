@@ -2,7 +2,7 @@
 
 Proposed for ISEA2022 Possibles. 
 
-Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com/](https://asheveryday.com/)
+Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
 
 Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
 
