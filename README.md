@@ -12,11 +12,11 @@ Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of
 
 ---
 
-## Description
+# Description
 
 With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodiment. __Please bring a text you would like to experiment with!__
 
-## Schedule
+# Schedule
 
 |    Time    | Activity |
 |------------|----|
@@ -33,7 +33,10 @@ With recent advancements in machine learning techniques, researchers have demons
 | 17:30 | Debrief |
 | 18:00 | ~ wrap ~ |
 
-## Notebooks
+# Tools and Resources
+- Sign up for GPT-3 beta. 
+- Work through these simple AI playground examples. 
+- 
 
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
 <!--
@@ -43,36 +46,6 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 4. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab) -->
 1. Links and things
 2. To come here..
-
-## Discussion
-
-Need real questions here:
-- How do words specify/suggest/evoke images? 
-- What do you see when you read? Are some texts more or less imagistic?
-- How can we use this artificial machine imagination to understand our human visual imagination? 
-- How might you incorporate these techniques into our creative production or scholarship? 
-- What would it mean to diversify machine imagination?
-
-## References
-
-- Will list references to papers/etc. here 
-<!--
-- Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
-  - see the BigGAN hands-on notebook above to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
-- NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
-  - see for example [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/), a photorealistic face generator with StyleGAN2
-- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
-  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
-- OpenAI [CLIP: Connecting Text and Image](https://openai.com/blog/clip/), 2021
-- OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
-  - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
-- Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
--->
-
-# Tools and Resources
-- Sign up for GPT-3 beta. 
-- Work through these simple AI playground examples. 
-- 
 
 # Background
 
@@ -129,3 +102,21 @@ To learn more about CLIP, try the Interacting with CLIP colab: https://colab.res
 
 (from https://github.com/openai/CLIP)
 -->
+
+# References
+
+- Will list references to papers/etc. here 
+- 
+<!--
+- Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
+  - see the BigGAN hands-on notebook above to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
+- NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
+  - see for example [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/), a photorealistic face generator with StyleGAN2
+- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
+  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
+- OpenAI [CLIP: Connecting Text and Image](https://openai.com/blog/clip/), 2021
+- OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
+  - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
+- Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
+-->
+
