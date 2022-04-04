@@ -4,7 +4,7 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
-Proposed for [ISEA2022 Possibles](https://isea2022.isea-international.org/). 
+A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 10, 10-6pm.
 
 __Team__:
 - Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
