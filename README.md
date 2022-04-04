@@ -69,7 +69,12 @@ Need real questions here:
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 -->
 
-## Overview of Neural Networks and Text Generation
+# Background
+
+## Radio Plays
+
+
+## Neural Networks and Text Generation
 
 __Feed Forward Neural Net__
 
