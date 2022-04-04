@@ -20,7 +20,7 @@ With recent advancements in machine learning techniques, researchers have demons
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Intro__ overview slides
+| 10:00	| __Intro__ <br>overview slides
 | 10:30	| GPT-3 playground |
 | 11:30	| __AI Writer's Rooms 1__ |
 | 12:30 | Reconvene as large group |
