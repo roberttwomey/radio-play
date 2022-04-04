@@ -69,6 +69,11 @@ Need real questions here:
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 -->
 
+# Tools and Resources
+- Sign up for GPT-3 beta. 
+- Work through these simple AI playground examples. 
+- 
+
 # Background
 
 ## Radio Plays
