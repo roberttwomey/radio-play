@@ -1,6 +1,8 @@
+[image goes here]
+
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
-Proposed for ISEA2022 Possibles. 
+Proposed for [ISEA2022 Possibles](https://isea2022.isea-international.org/). 
 
 Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
 
