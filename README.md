@@ -18,18 +18,18 @@ With recent advancements in machine learning techniques, researchers have demons
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| Introductions
+| 10:00	| __Intro__
 | 10:30	| GPT-3 playground |
-| 11:30	| AI Writer's Rooms 1 |
+| 11:30	| __AI Writer's Rooms 1__ |
 | 12:30 | Reconvene as large group |
 | 13:00	| ~ lunch break ~ |
-| 14:00	| AI Writer's Rooms 2| 
+| 14:00	| __AI Writer's Rooms 2__ | 
 | 15:00 | Reconvene |
 | 15:30 | Peformance Planning | 
-| 16:00 | Sound check / Rehearsal | 
-| 17:00 | Radio Show Performance Live Internet Transmission | 
+| 16:00 | Rehearsal and Sound Check | 
+| 17:00 | __Radio Play__ Performance and Live Internet Transmission | 
 | 17:30 | Debrief |
-| 18:00 | ~ close ~ |
+| 18:00 | ~ wrap ~ |
 
 ## Notebooks
 
