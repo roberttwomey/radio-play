@@ -10,7 +10,7 @@ Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of
 
 ## Description
 
-With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodied. __Please bring a text you would like to experiment with!__
+With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodiment. __Please bring a text you would like to experiment with!__
 
 ## Schedule
 
