@@ -73,6 +73,10 @@ Need real questions here:
 
 ## Radio Plays
 
+<img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
+Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [Source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
+
+
 
 ## Neural Networks and Text Generation
 
