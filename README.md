@@ -6,9 +6,10 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 Proposed for [ISEA2022 Possibles](https://isea2022.isea-international.org/). 
 
-Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
-
-Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
+__Team__:
+- Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
+- Stephanie Sherman | MA Narrative Environments | Central St. Martin/University of the Ars, London | [stephaniesherman.info](https://stephaniesherman.info/)
+- Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
 
 ---
 
