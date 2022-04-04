@@ -1,4 +1,5 @@
-[image goes here]
+<img src="https://ichef.bbci.co.uk/images/ic/1344xn/p07br2kd.jpg" width=800>
+Image from [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
