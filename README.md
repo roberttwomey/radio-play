@@ -112,15 +112,17 @@ To learn more about CLIP, try the Interacting with CLIP colab: https://colab.res
 
 # References
 
-- Will list references to papers/etc. here 
-- 
+- Jordi Armengol-Estapé, Ona de Gibert Bonet, and Maite Melero, [On the Multilingual Capabilities of Very Large-Scale English Language
+Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
+- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
+  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
+- [more tk]
+
 <!--
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
   - see the BigGAN hands-on notebook above to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
 - NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
   - see for example [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/), a photorealistic face generator with StyleGAN2
-- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
-  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
 - OpenAI [CLIP: Connecting Text and Image](https://openai.com/blog/clip/), 2021
 - OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
   - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
