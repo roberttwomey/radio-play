@@ -35,9 +35,11 @@ With recent advancements in machine learning techniques, researchers have demons
 | 18:00 | ~ wrap ~ |
 
 # Tools and Resources
-- Sign up for GPT-3 beta. 
-- Work through these simple AI playground examples. 
+- Discord for pre-work
 - 
+- To familiarize yourself with GPT-3
+  - Sign up for GPT-3 beta. 
+  - Work through these simple AI playground examples. 
 
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
 <!--
