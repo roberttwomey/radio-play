@@ -4,13 +4,13 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
-A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 10, 10-6pm.
+A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 11, 10-6pm.
 
 __Team__:
 - Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
 - Stephanie Sherman | MA Narrative Environments | Central St. Martin/University of the Ars, London | [stephaniesherman.info](https://stephaniesherman.info/)
 - Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
-
+- Patrick Coleman | [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) | University of California, San Diego | [patrickcoleman.org](https://www.patrickcoleman.org/)
 ---
 
 # Description
