@@ -36,7 +36,6 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Tools and Resources
 - Discord for pre-work
-- 
 - To familiarize yourself with GPT-3
   - Sign up for GPT-3 beta. 
   - Work through these simple AI playground examples. 
