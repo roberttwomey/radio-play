@@ -11,6 +11,9 @@ __Team__:
 - Stephanie Sherman | MA Narrative Environments | Central St. Martin/University of the Ars, London | [stephaniesherman.info](https://stephaniesherman.info/)
 - Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
 - Patrick Coleman | [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) | University of California, San Diego | [patrickcoleman.org](https://www.patrickcoleman.org/)
+- Agustina Woodgate | Tutor [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design) | Sandberg Instituut, Amsterdam | [agustinawoodgate.com/](https://agustinawoodgate.com/)
+- Jinku Kim | Johnny Carson for Emerging Media Arts | University of Nebraska-Lincoln | [https://www.grayscale64.com/](https://www.grayscale64.com/)
+
 ---
 
 # Description
