@@ -6,7 +6,7 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 <img src="images/ai_orson_wells_out.jpg" width=100%>
 
-_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Projection of Orson Welles Mercury Theatre of the Air Group into Latent Space__
+_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Alternative Orson Welles Mercury Theatre of the Air Group rehearsing in Latent Space__
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
