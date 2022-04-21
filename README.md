@@ -14,7 +14,7 @@ A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). J
 
 __Team__:
 - Ash Smith | Story, Worlds, Speculative Design Lab | University of Nebraska—Lincoln  | [asheveryday.com](https://asheveryday.com/)
-- Stephanie Sherman | MA Narrative Environments | Central St. Martin/University of the Ars, London | [stephaniesherman.info](https://stephaniesherman.info/)
+- Stephanie Sherman | MA Narrative Environments | Central St. Martin/University of the Arts, London | [stephaniesherman.info](https://stephaniesherman.info/)
 - Robert Twomey | [Machine Cohabitation Lab](http://cohab-lab.net) | University of Nebraska—Lincoln | [roberttwomey.com](https://roberttwomey.com)
 - Patrick Coleman | [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) | University of California, San Diego | [patrickcoleman.org](https://www.patrickcoleman.org/)
 - Agustina Woodgate | Tutor [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design) | Sandberg Instituut, Amsterdam | [agustinawoodgate.com](https://agustinawoodgate.com)
