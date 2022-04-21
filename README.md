@@ -6,6 +6,7 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 <img src="images/ai_orson_wells_out.jpg" width=100%>
 
+_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Projection of Orson Welles Mercury Theatre of the Air Group into Latent Space__
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
@@ -67,10 +68,11 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 <img src="images/barca_joint_out.jpg" width=100%>
 
+<!--
 <img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
 
 Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
-
+-->
 
 
 ## Neural Networks and Text Generation
