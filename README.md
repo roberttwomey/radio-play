@@ -28,6 +28,8 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Schedule
 
+Saturday, June 11 2022
+
 |    Time    | Activity |
 |------------|----|
 | 10:00	| __Intro__ <br>overview slides
