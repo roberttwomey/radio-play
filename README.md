@@ -4,7 +4,7 @@
 From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC 100.
 -->
 
-<img src="images/ai_orson_wells_out.jpg" width=100%>
+<img src="images/ai_orson_wells_4k.jpg" width=100%>
 
 _left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Alternative Orson Welles Mercury Theatre of the Air Group rehearsing in Latent Space__
 
@@ -64,11 +64,12 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 
 ## Images
+<img src="images/barca_girls_out_4k.jpg" width=100%>
+
 <img src="images/ai_portable_radio_out.jpg" width=100%>
 
 <img src="images/ai_radio_bunker_out.jpg" width=100%>
 
-<img src="images/barca_joint_out.jpg" width=100%>
 
 <!--
 <img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
