@@ -65,8 +65,8 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 ## Images
 <img src="images/barca_girls_out_4k.jpg" width=100%>
-_left: Two children listen to radio, from cover of Barcelona magazine (source), right: Two children listen to radio in latent space_
 
+_left: Two children listen to radio, from cover of Barcelona magazine (source), right: Two children listen to radio in latent space_
 
 <img src="images/ai_portable_radio_out.jpg" width=100%>
 
