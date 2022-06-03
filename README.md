@@ -4,9 +4,6 @@
 From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC 100.
 -->
 
-![Image](images/ai_orson_wells_4k.jpg)
-
-_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
 
 # Radio Play and Transmission: Live Participatory Worldbuilding with GPT-3
 
@@ -64,6 +61,11 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 
 ## Images
+
+![Image](images/ai_orson_wells_4k.jpg)
+
+_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
+
 ![Image](images/barca_girls_out_4k.jpg)
 
 _left: Two children listen to radio, from cover of Radio Barcelona magazine, 1925 ([source](http://radioassociacio.cat/history/)), right: Two children listen to radio in latent space_
