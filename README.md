@@ -4,7 +4,7 @@
 From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC 100.
 -->
 
-<img src="images/ai_orson_wells_4k.jpg" width=100%>
+![Image](images/ai_orson_wells_4k.jpg)
 
 _left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
 
@@ -64,13 +64,13 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 
 ## Images
-<img src="images/barca_girls_out_4k.jpg" width=100%>
+![Image](images/barca_girls_out_4k.jpg)
 
 _left: Two children listen to radio, from cover of Radio Barcelona magazine, 1925 ([source](http://radioassociacio.cat/history/)), right: Two children listen to radio in latent space_
 
-<img src="images/ai_portable_radio_out.jpg" width=100%>
+![Image](images/ai_portable_radio_out.jpg)
 
-<img src="images/ai_radio_bunker_out.jpg" width=100%>
+![Image](images/ai_radio_bunker_out.jpg)
 
 
 <!--
@@ -81,10 +81,10 @@ Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe.
 
 
 ## Neural Networks and Text Generation
-
+<!-- 
 __Feed Forward Neural Net__
 
-<!-- <img width="600" alt="mnist digit classifier network" src="https://user-images.githubusercontent.com/1598545/118535575-7b828880-b6ff-11eb-9fd8-40486111e3d8.png">
+<img width="600" alt="mnist digit classifier network" src="https://user-images.githubusercontent.com/1598545/118535575-7b828880-b6ff-11eb-9fd8-40486111e3d8.png">
 
 Neural Networks, or Artificial Neural Networks (ANNs) are networks (graphs) composed of nodes and edges, loosely modelled on the architecture of biological brain. They are generally composed of distinct layers of neurons, where outputs from one feed inputs of another. Broadly, each node resembles a neuron, accepting inputs from a number of other nodes, and defined with its own activiation function, bias, and forward connections. There are many variations on this basic architecture. Above we see a very simple fully connected, feed forward network that takes as an input 28 x 28 pixel grayscale images (784 input signals), and produces a 0-10 digit classifier on the output. Neural networks are used for many generative and predictive tasks across sound, image, text, etc.
 -->
@@ -143,7 +143,6 @@ To learn more about CLIP, try the Interacting with CLIP colab: https://colab.res
 Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
 - OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
   - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
-- [more tk]
 
 <!--
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
