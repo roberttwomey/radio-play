@@ -2,9 +2,10 @@
 <img src="https://ichef.bbci.co.uk/images/ic/1344xn/p07br2kd.jpg">
 
 From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC 100.
+-->
 
 A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 11, 10-6pm CEST.
--->
+
 ![Image](images/barca_girls_out.jpg)
 
 # Description
