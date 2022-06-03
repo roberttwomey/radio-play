@@ -89,6 +89,7 @@ __Feed Forward Neural Net__
 Neural Networks, or Artificial Neural Networks (ANNs) are networks (graphs) composed of nodes and edges, loosely modelled on the architecture of biological brain. They are generally composed of distinct layers of neurons, where outputs from one feed inputs of another. Broadly, each node resembles a neuron, accepting inputs from a number of other nodes, and defined with its own activiation function, bias, and forward connections. There are many variations on this basic architecture. Above we see a very simple fully connected, feed forward network that takes as an input 28 x 28 pixel grayscale images (784 input signals), and produces a 0-10 digit classifier on the output. Neural networks are used for many generative and predictive tasks across sound, image, text, etc.
 -->
 
+<!--
 __Recurrent Neural Networks__
 
 [TK]
@@ -104,6 +105,8 @@ __Transformers__
 __GPT-3__
 
 [TK]
+
+-->
 
 <!--__Generative Adversarial Networks (GANs)__
 
