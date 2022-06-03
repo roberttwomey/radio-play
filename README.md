@@ -13,12 +13,12 @@ A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). J
 
 __Team__:
 
-**Ash Smith** Story, Worlds, Speculative Design Lab University of Nebraska—Lincoln. [asheveryday.com](https://asheveryday.com/)
-**Stephanie Sherman** MA Narrative Environments, Central St. Martin/University of the Arts, London. [stephaniesherman.info](https://stephaniesherman.info/)
-**Robert Twomey** [Machine Cohabitation Lab](http://cohab-lab.net), University of Nebraska—Lincoln. [roberttwomey.com](https://roberttwomey.com)
-**Patrick Coleman** [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu), University of California, San Diego. [patrickcoleman.org](https://www.patrickcoleman.org/)
-**Agustina Woodgate** [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam. [agustinawoodgate.com](https://agustinawoodgate.com)
-**Jinku Kim** Johnny Carson for Emerging Media Arts, University of Nebraska-Lincoln. [https://www.grayscale64.com](https://www.grayscale64.com)
+**Ash Smith** Story, Worlds, Speculative Design Lab University of Nebraska—Lincoln. [asheveryday.com](https://asheveryday.com/)<br><br>
+**Stephanie Sherman** MA Narrative Environments, Central St. Martin/University of the Arts, London. [stephaniesherman.info](https://stephaniesherman.info/)<br><br>
+**Robert Twomey** [Machine Cohabitation Lab](http://cohab-lab.net), University of Nebraska—Lincoln. [roberttwomey.com](https://roberttwomey.com)<br><br>
+**Patrick Coleman** [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu), University of California, San Diego. [patrickcoleman.org](https://www.patrickcoleman.org/)<br><br>
+**Agustina Woodgate** [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam. [agustinawoodgate.com](https://agustinawoodgate.com)<br><br>
+**Jinku Kim** Johnny Carson for Emerging Media Arts, University of Nebraska-Lincoln. [https://www.grayscale64.com](https://www.grayscale64.com)<br><br>
 
 ---
 
