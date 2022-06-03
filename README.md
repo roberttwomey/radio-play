@@ -9,12 +9,12 @@ A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). J
 
 # Team
 
-**Ash Smith** - Story, Worlds, Speculative Design Lab, UNL [asheveryday.com](https://asheveryday.com/)<br>
-**Stephanie Sherman** - Central St. Martin [stephaniesherman.info](https://stephaniesherman.info/)<br>
-**Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL [roberttwomey.com](https://roberttwomey.com)<br>
-**Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
-**Agustina Woodgate** - [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam. [agustinawoodgate.com](https://agustinawoodgate.com)<br>
-**Jinku Kim** - Johnny Carson for Emerging Media Arts UNL [https://www.grayscale64.com](https://www.grayscale64.com)<br>
+**Ash Smith** - Story, Worlds, Speculative Design Lab, UNL - [asheveryday.com](https://asheveryday.com/)<br>
+**Stephanie Sherman** - Central St. Martin - [stephaniesherman.info](https://stephaniesherman.info/)<br>
+**Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
+**Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD - [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
+**Agustina Woodgate** - [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam - [agustinawoodgate.com](https://agustinawoodgate.com)<br>
+**Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [https://www.grayscale64.com](https://www.grayscale64.com)<br>
 
 ---
 
