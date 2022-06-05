@@ -48,10 +48,7 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 2. To come here..
  -->
  
-# Background
-
-
-## Images
+# Images
 
 ![Image](images/ai_orson_wells_4k.jpg)
 
@@ -72,9 +69,10 @@ _left: Two children listen to radio, from cover of Radio Barcelona magazine, 192
 Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
 -->
 
-
-## Neural Networks and Text Generation
 <!-- 
+# Background
+## Neural Networks and Text Generation
+
 __Feed Forward Neural Net__
 
 <img width="600" alt="mnist digit classifier network" src="https://user-images.githubusercontent.com/1598545/118535575-7b828880-b6ff-11eb-9fd8-40486111e3d8.png">
@@ -155,4 +153,4 @@ Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD - [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
 **Agustina Woodgate** - [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam - [agustinawoodgate.com](https://agustinawoodgate.com)<br>
-**Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [https://www.grayscale64.com](https://www.grayscale64.com)<br>
+**Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
