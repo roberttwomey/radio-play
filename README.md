@@ -48,27 +48,6 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 2. To come here..
  -->
  
-# Images
-
-![Image](images/ai_orson_wells_4k.jpg)
-
-_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
-
-![Image](images/barca_girls_out_4k.jpg)
-
-_left: Two children listen to radio, from cover of Radio Barcelona magazine, 1925 ([source](http://radioassociacio.cat/history/)), right: Two children listen to radio in latent space_
-
-![Image](images/ai_portable_radio_out.jpg)
-
-![Image](images/ai_radio_bunker_out.jpg)
-
-
-<!--
-<img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
-
-Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
--->
-
 <!-- 
 # Background
 ## Neural Networks and Text Generation
@@ -154,3 +133,24 @@ Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
 **Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD - [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
 **Agustina Woodgate** - [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam - [agustinawoodgate.com](https://agustinawoodgate.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
+
+# Images
+
+![Image](images/ai_orson_wells_4k.jpg)
+
+_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
+
+![Image](images/barca_girls_out_4k.jpg)
+
+_left: Two children listen to radio, from cover of Radio Barcelona magazine, 1925 ([source](http://radioassociacio.cat/history/)), right: Two children listen to radio in latent space_
+
+![Image](images/ai_portable_radio_out.jpg)
+
+![Image](images/ai_radio_bunker_out.jpg)
+
+
+<!--
+<img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
+
+Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
+-->
