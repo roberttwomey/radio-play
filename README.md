@@ -128,11 +128,14 @@ Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
 # Team
 
 **Ash Smith** - Story, Worlds, Speculative Design Lab, UNL - [asheveryday.com](https://asheveryday.com/)<br>
-**Stephanie Sherman** - Central St. Martin - [stephaniesherman.info](https://stephaniesherman.info/)<br>
+**Stephanie Sherman** - Central St. Martins MA Narrative Environments, Radio Espacio Estación - [stephaniesherman.info](https://stephaniesherman.info/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
-**Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD - [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
-**Agustina Woodgate** - [Disarming Design Master Course](https://sandberg.nl/temporary-programme-disarming-design), Sandberg Instituut, Amsterdam - [agustinawoodgate.com](https://agustinawoodgate.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
+**Agustina Woodgate** -  Radio Espacio Estación - [agustinawoodgate.com](https://agustinawoodgate.com)<br>
+**Hernan Woodgate** - Radio Espacio Estación - [radioee.net](http://radioee.net)<br>
+**Patrick Coleman** - [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) UCSD - [patrickcoleman.org](https://www.patrickcoleman.org/)<br>
+
+<!--
 
 # Images
 
@@ -148,8 +151,6 @@ _left: Two children listen to radio, from cover of Radio Barcelona magazine, 192
 
 ![Image](images/ai_radio_bunker_out.jpg)
 
-
-<!--
 <img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
 
 Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
