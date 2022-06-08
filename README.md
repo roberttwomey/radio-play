@@ -32,9 +32,10 @@ Saturday, June 11 2022
 | 18:00 | ~ wrap ~ |
 
 # Tools and Resources
-- Discord [LINK TO COME]
-- OpenAI Beta [beta.openai.com/overview](https://beta.openai.com/overview)
-
+- __Discord__ [LINK TO COME]
+- __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
+- Radio Play Structure - [LIVE AT RUN TIME] (goegle sheets)
+- Slides for Radio Play - [LIVE AT RUN TIME] (google slides)
 
 <!--
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
