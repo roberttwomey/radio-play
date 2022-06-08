@@ -32,10 +32,9 @@ Saturday, June 11 2022
 | 18:00 | ~ wrap ~ |
 
 # Tools and Resources
-- Discord for pre-work
-- To familiarize yourself with GPT-3
-  - Sign up for GPT-3 beta. 
-  - Work through these simple AI playground examples. 
+- Discord [LINK TO COME]
+- OpenAI Beta [beta.openai.com/overview](https://beta.openai.com/overview)
+
 
 <!--
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
@@ -108,11 +107,15 @@ To learn more about CLIP, try the Interacting with CLIP colab: https://colab.res
 -->
 
 # References
-
+- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
 - Jordi Armengol-Estapé, Ona de Gibert Bonet, and Maite Melero, [On the Multilingual Capabilities of Very Large-Scale English Language
 Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
-- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
-  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
+- Examples of GPT-3 co-writing: 
+  - Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) or Amor Cringe.
+- To familiarize yourself with GPT-3, sign up for the beta ([openai.com/api](https://openai.com/api)), and work through these simple AI playground examples: https://beta.openai.com/examples.
+  - Chat: https://beta.openai.com/examples/default-chat
+  - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
+  - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
 <!--
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
