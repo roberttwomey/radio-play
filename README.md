@@ -20,9 +20,9 @@ Saturday, June 11 2022
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Intro__ <br>overview slides
-| 10:30	| GPT-3 playground |
-| 11:30	| __AI Writer's Rooms 1__ |
+| 10:00	| __Intro__ <br> slides and warming up our language engines. |
+| 10:30	| GPT-3 playground and warming up our language enginesIntro writing exercises (Discord) |
+| 11:30	| __Writer's Rooms Phase 1__: worldbuilding (small groups) |
 | 12:30 | Reconvene as large group |
 | 13:00	| ~ lunch break ~ |
 | 14:00	| __AI Writer's Rooms 2__ | 
@@ -34,7 +34,8 @@ Saturday, June 11 2022
 | 18:00 | ~ wrap ~ |
 
 # Tools and Resources
-- __Discord__ [LINK TO COME]
+- __Discord Server__ [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj)
+  - [download discord](https://discord.com/download)
 - __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
 - __Radio Play Structure__ (google sheets) [LIVE AT RUN TIME]
 - __Radio Play Deck__ (google slides) [LIVE AT RUN TIME]
