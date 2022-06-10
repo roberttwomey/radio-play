@@ -113,8 +113,7 @@ To learn more about CLIP, try the Interacting with CLIP colab: https://colab.res
 - OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
 - Jordi Armengol-Estapé, Ona de Gibert Bonet, and Maite Melero, [On the Multilingual Capabilities of Very Large-Scale English Language
 Models](https://arxiv.org/pdf/2108.13349.pdf) arxiv.org/abs/2108.13349
-- Examples of GPT-3 co-writing: 
-  - Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) or Amor Cringe.
+- Examples of GPT-3 co-writing: Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) or Amor Cringe.
 - To familiarize yourself with GPT-3, sign up for the beta ([openai.com/api](https://openai.com/api)), and work through these simple AI playground examples: https://beta.openai.com/examples.
   - Chat: https://beta.openai.com/examples/default-chat
   - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
