@@ -20,8 +20,8 @@ Saturday, June 11 2022
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Intro__ <br> slides and warming up our language engines. |
-| 10:30	| GPT-3 playground and warming up our language enginesIntro writing exercises (Discord) |
+| 10:00	| __Intro__ <br> introducing the workshop|
+| 10:30	| warming up our language engines (Discord) |
 | 11:30	| __Writer's Rooms Phase 1__: worldbuilding (small groups) |
 | 12:30 | Reconvene as large group |
 | 13:00	| ~ lunch break ~ |
