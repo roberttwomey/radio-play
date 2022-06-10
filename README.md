@@ -6,6 +6,8 @@ From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc
 
 A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 11, 10-6pm CEST.
 
+<a href="https://s3.radio.co/s70d0dcdd7/listen" target="_blank">Listen Live!</a>
+
 ![Image](images/barca_girls_out.jpg)
 
 # Description
