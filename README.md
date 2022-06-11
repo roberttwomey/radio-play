@@ -35,7 +35,7 @@ Saturday, June 11 2022
 | 18:00 | ~ wrap ~ |
 
 # Tools and Resources
-- __Discord Server__ [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj)
+- __Discord Server__ [LINK REMOVED] <!--[https://discord.gg/sErAemWj](https://discord.gg/sErAemWj)-->
   - [download discord](https://discord.com/download)
 - __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
 - __Radio Play Deck__ ([google slides](https://docs.google.com/presentation/d/11rs1DJ0iZlh6PJpaBPAl1U6GOl8UVNN_oU17pnysxsI/edit?usp=sharing))
