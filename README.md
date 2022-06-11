@@ -20,16 +20,17 @@ Saturday, June 11 2022
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Intro__ <br> introducing the workshop|
-| 10:30	| warming up our language engines (Discord) |
-| 11:30	| __Writer's Rooms Phase 1__: worldbuilding (small groups) |
-| 12:30 | Reconvene as large group |
+| 10:00	| __Introduction__ <br>  Background and setup |
+| 10:30	| Activity: warming up our language engines (Discord). Discuss. |
+| 11:00	| __Writer's Rooms 1__: Worldbuilding (small groups) |
+| 11:45 | Reconvene: share out and decide on concept, themes |
+| 12:00	| __Writer's Rooms 2__: Developing scenes (small group) | 
+| 12:45 | Reconvene: share out scene progress, sign up for production. Other elements (sponsor messages, etc.)
 | 13:00	| ~ lunch break ~ |
-| 14:00	| __AI Writer's Rooms 2__ | 
-| 15:00 | Reconvene |
-| 15:30 | Peformance Planning | 
+| 14:00 | __Pre-Production__: Peformance Planning  |
+| 15:00 | Reconvene: share out. Sequence blocks, timing. | 
 | 16:00 | Rehearsal and Sound Check | 
-| 17:00 | __Radio Play__ Performance and Live Internet Transmission | 
+| 17:00 | __Performance and Broadcast__ Performance and Live Internet Transmission | 
 | 17:30 | Debrief |
 | 18:00 | ~ wrap ~ |
 
