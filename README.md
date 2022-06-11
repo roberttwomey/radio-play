@@ -38,8 +38,8 @@ Saturday, June 11 2022
 - __Discord Server__ [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj)
   - [download discord](https://discord.com/download)
 - __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
-- __Radio Play Structure__ (google sheets) [LIVE AT RUN TIME]
-- __Radio Play Deck__ (google slides) [LIVE AT RUN TIME]
+- __Radio Play Deck__ ([google slides](https://docs.google.com/presentation/d/11rs1DJ0iZlh6PJpaBPAl1U6GOl8UVNN_oU17pnysxsI/edit?usp=sharing))
+- __Radio Grids__ ([google sheets](https://docs.google.com/spreadsheets/d/10wWXvFbmwf_82i4O-ukt8g5YMj2YZ92ue6SNS5HMKcI/edit?usp=sharing))
 
 <!--
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
