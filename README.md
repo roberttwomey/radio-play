@@ -9,9 +9,9 @@ A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). J
 <!-- <h1><a href="https://s3.radio.co/s70d0dcdd7/listen" target="_blank"><<< LISTEN LIVE >>></a></h1> 5-5:30 CEST/1500-1530 GMT
 -->
 
-<h1><<< LISTEN LIVE >>></h1> 5-5:30 CEST/1500-1530 GMT June 11
+<<< LISTEN LIVE >>> 5-5:30 CEST/1500-1530 GMT June 11
 
-[recording](https://drive.google.com/file/d/1cijx-0ws0JDobYhoJoyKRqjNfDxBqR1d/view?usp=sharing)
+<h2>[2 minute excerpt](https://drive.google.com/file/d/1cijx-0ws0JDobYhoJoyKRqjNfDxBqR1d/view?usp=sharing)</h2>
 
 ![Image](images/barca_girls_out.jpg)
 
