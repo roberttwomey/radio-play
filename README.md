@@ -11,7 +11,7 @@ A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). J
 
 <h1><<< LISTEN LIVE >>></h1> 5-5:30 CEST/1500-1530 GMT June 11
 
-[recording](https://drive.google.com/file/d/17tCo1KDt7q485hBkwBPB1XM5c5xY1d2c/)
+[recording](https://drive.google.com/file/d/1cijx-0ws0JDobYhoJoyKRqjNfDxBqR1d/view?usp=sharing)
 
 ![Image](images/barca_girls_out.jpg)
 
