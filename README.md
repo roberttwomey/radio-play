@@ -22,6 +22,7 @@ Friday, October 8 - Session 1<br>
 | 2:10 | Writer's Room 2: Developing scenes (small groups) |
 | 2:50 | Reconvene: share out scenes, sign up for production. Other elements (sponsor messages, etc.) |
 | 3:00 | assign “homework” and adjourn | 
+
 <br>
   
 Saturday, October 9 - Session 2<br>
