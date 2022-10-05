@@ -1,5 +1,5 @@
 Episode 1: Barcelona, [Spain ISEA2022 Possibles]((ep1/)). June 11, 10-6pm CEST. CCCB.<br>
-Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT. [LOCATION]()
+Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT.
 
 <h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
@@ -60,28 +60,7 @@ Saturday, October 9 - Performance <br>
   - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
   - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
-# Team
+# Episode 2 Team
 **Ash Smith** - Story, Worlds, Speculative Design Lab, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
-
-<!--
-
-# Images
-
-![Image](images/ai_orson_wells_4k.jpg)
-
-_left: Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938, right: Rehearsing in Latent Space_
-
-![Image](images/barca_girls_out_4k.jpg)
-
-_left: Two children listen to radio, from cover of Radio Barcelona magazine, 1925 ([source](http://radioassociacio.cat/history/)), right: Two children listen to radio in latent space_
-
-![Image](images/ai_portable_radio_out.jpg)
-
-![Image](images/ai_radio_bunker_out.jpg)
-
-<img src="https://www.alaskapublic.org/wp-content/uploads/2015/09/1238M_Orsonwithcast_PF_1938-900x643.jpg">
-
-Orson Welles shown in rehearsal directing his Mercury Theatre of the Air troupe. 1938 (Photo Courtesy of Photofest, Inc.) [source](https://www.alaskapublic.org/2015/10/23/war-of-the-worlds/)
--->
