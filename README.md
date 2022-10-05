@@ -11,7 +11,7 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Schedule
 
-Friday, October 8 - Session 1<br>
+**Friday, October 8 - Session 1**
 
 |    Time    | Activity |
 |------------|----|
@@ -22,10 +22,8 @@ Friday, October 8 - Session 1<br>
 | 2:10 | Writer's Room 2: Developing scenes (small groups) |
 | 2:50 | Reconvene: share out scenes, sign up for production. Other elements (sponsor messages, etc.) |
 | 3:00 | assign “homework” and adjourn | 
-
-<br>
   
-Saturday, October 9 - Session 2<br>
+**Saturday, October 9 - Session 2**
 
 |    Time    | Activity |
 |------------|----|
@@ -35,9 +33,7 @@ Saturday, October 9 - Session 2<br>
 | 2:10 |  UPLOAD assets. Reconvene: Sequencing blocks, timing |
 | 2:50 |  Rehearsal and Sound Check |
 
-<br>
-
-Saturday, October 9 - Performance <br>
+**Saturday, October 9 - Performance <br>**
 
 |    Time    | Activity |
 |------------|----|
