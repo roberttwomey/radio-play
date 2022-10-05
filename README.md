@@ -61,6 +61,6 @@ Saturday, October 9 - Performance <br>
   - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
 # Episode 2 Team
-**Ash Smith** - Story, Worlds, Speculative Design Lab, UNL - [asheveryday.com](https://asheveryday.com/)<br>
-**Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
-**Jinku Kim** - Johnny Carson for Emerging Media Arts UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
+**Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
+**Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
+**Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
