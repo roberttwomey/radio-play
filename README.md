@@ -1,4 +1,4 @@
-[Episode 1](ep1/): Barcelona, Spain ISEA2022 Possibles. June 11, 10-6pm CEST. CCCB.<br>
+Episode 1: Barcelona, [Spain ISEA2022 Possibles]((ep1/)). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT. [LOCATION]()
 
 <h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
