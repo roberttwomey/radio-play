@@ -2,6 +2,7 @@ Episode 2: [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/). October 
 
 <h2><<< LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
+<img src="images/radio_play_ep2.jpg">
   
 # Description
 
@@ -9,6 +10,9 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Schedule
 
+[TK]
+
+<!--
 Saturday, June 11 2022
 
 |    Time    | Activity |
@@ -27,6 +31,7 @@ Saturday, June 11 2022
 | 17:30 | Debrief |
 | 18:00 | ~ wrap ~ |
 
+-->
 # Tools and Resources
 - __Radio Play Slides ([google slides](https://docs.google.com/presentation/d/11rs1DJ0iZlh6PJpaBPAl1U6GOl8UVNN_oU17pnysxsI/edit?usp=sharing))- __Discord Server__ [LINK REMOVED] <!-- [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj) -->
   - [download discord](https://discord.com/download)
