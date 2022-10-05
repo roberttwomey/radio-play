@@ -65,4 +65,4 @@ Saturday, October 9 - Performance <br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
   
-<h4>_This workshop is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_</h4>
+_This workshop is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
