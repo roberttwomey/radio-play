@@ -1,7 +1,7 @@
 Episode 1: [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB, Barcelona, Spain.<br>
 Episode 2: [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/). October 7-8, 1:00-3:00 CDT. Purdue, Indiana. [LOCATION]()
 
-<h2><<< LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
+<h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
 <img src="images/radio_play_ep2.jpg">
   
