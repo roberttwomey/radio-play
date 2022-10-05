@@ -1,7 +1,7 @@
 Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT.
 
-<h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
+<h2><<< STREAM LIVE >>> Saturday October 8, 2022 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
 <img src="images/radio_play_ep2.jpg">
   
@@ -47,7 +47,7 @@ Saturday, October 9 - Performance <br>
   
 # Tools and Resources
 - __Radio Play Slides__ ([TK])<!--[google slides](https://docs.google.com/presentation/d/11rs1DJ0iZlh6PJpaBPAl1U6GOl8UVNN_oU17pnysxsI/edit?usp=sharing))-->
-  - __Discord Server__ [TK] <!-- [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj) -->
+- __Discord Server__ [TK]
   - [download discord](https://discord.com/download)
 - __Radio Grids__ ([TK])<!--[google sheets](https://docs.google.com/spreadsheets/d/10wWXvFbmwf_82i4O-ukt8g5YMj2YZ92ue6SNS5HMKcI/edit?usp=sharing))-->
 - __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
