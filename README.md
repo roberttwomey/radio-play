@@ -1,4 +1,4 @@
-Episode 1: Barcelona, [Spain ISEA2022 Possibles]((ep1/)). June 11, 10-6pm CEST. CCCB.<br>
+Episode 1: Barcelona, [Spain ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT.
 
 <h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
@@ -60,9 +60,11 @@ Saturday, October 9 - Performance <br>
   - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
   - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
-# Team (Episode 2)
+# Episode 2 Team
 **Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
-  
+
+<br>
+<br>
 _This workshop is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
