@@ -1,5 +1,5 @@
-Episode 1: [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB, Barcelona, Spain.<br>
-Episode 2: [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/). October 7-8, 1:00-3:00 CDT. Purdue, Indiana. [LOCATION]()
+Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
+Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 CDT. [LOCATION]()
 
 <h2><<< STREAM LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
@@ -11,28 +11,39 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Schedule
 
-[TK]
-
-<!--
-Saturday, June 11 2022
+Friday, October 8 - Session 1<br>
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Introduction__ <br>  Background and setup |
-| 10:30	| Activity: warming up our language engines (Discord). Discuss. |
-| 11:00	| __Writer's Rooms 1__: Worldbuilding (small groups) |
-| 11:45 | Reconvene: share out and decide on concept, themes |
-| 12:00	| __Writer's Rooms 2__: Developing scenes (small group) | 
-| 12:45 | Reconvene: share out scene progress, sign up for production. Other elements (sponsor messages, etc.)
-| 13:00	| ~ lunch break ~ |
-| 14:00 | __Pre-Production__: Peformance Planning  |
-| 15:00 | Reconvene: share out. Sequence blocks, timing. | 
-| 16:00 | Rehearsal and Sound Check | 
-| 17:00 | __Performance and Broadcast__ Performance and Live Internet Transmission | 
-| 17:30 | Debrief |
-| 18:00 | ~ wrap ~ |
+| 1:00 | Introduction - Background and Setup |
+| 1:15 | Activity: warming up our language engines (Discord). Discuss |
+| 1:30 | Writer's Room 1: Worldbuilding (small groups) |
+| 2:00 | econvene: share out and decide on concept, themes |
+| 2:10 | Writer's Room 2: Developing scenes (small groups) |
+| 2:50 | Reconvene: share out scenes, sign up for production. Other elements (sponsor messages, etc.) |
+| 3:00 | assign “homework” and adjourn | 
+<br>
+  
+Saturday, October 9 - Session 2<br>
 
--->
+|    Time    | Activity |
+|------------|----|
+| 1:00 | Finalize Grid and Scripts, Interstitial Bits |
+| 1:20 |  Preproduction and wrangle audio assets, rehearse |
+| 2:00 | Reconvene: check in |
+| 2:10 |  UPLOAD assets. Reconvene: Sequencing blocks, timing |
+| 2:50 |  Rehearsal and Sound Check |
+
+<br>
+
+Saturday, October 9 - Performance <br>
+
+|    Time    | Activity |
+|------------|----|
+| 3:00 | Performance and Broadcast |
+| 3:30 | Debrief |
+| 4:00 | Adjourn | 
+  
 # Tools and Resources
 - __Radio Play Slides__ ([TK])<!--[google slides](https://docs.google.com/presentation/d/11rs1DJ0iZlh6PJpaBPAl1U6GOl8UVNN_oU17pnysxsI/edit?usp=sharing))-->
   - __Discord Server__ [TK] <!-- [https://discord.gg/sErAemWj](https://discord.gg/sErAemWj) -->
