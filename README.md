@@ -60,7 +60,9 @@ Saturday, October 9 - Performance <br>
   - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
   - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
-# Episode 2 Team
+# Team (Episode 2)
 **Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
+  
+<h3>This workshop is made possible through generous support from the Johnny Carson Center for Emerging Media Arts</h3>
