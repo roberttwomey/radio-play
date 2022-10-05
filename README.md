@@ -1,8 +1,8 @@
 Episode 2: [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/). October 7-8, 1:00-3:00 CDT. Purdue. [LOCATION]()
 
-<h2><<< LIVE >>> 3-3:30 CDT/2000-2030 GMT October 8, 2022</h2>
+<h2><<< LIVE >>> Saturday October 8, 3:00-3:30 CDT (2000-2030 GMT)</h2>
 
-
+  
 # Description
 
 With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodiment. Please bring a text you would like to experiment with!
