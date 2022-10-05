@@ -1,19 +1,7 @@
-<!--
-<img src="https://ichef.bbci.co.uk/images/ic/1344xn/p07br2kd.jpg">
+Episode 2: [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/). October 7-8, 1:00-3:00 CDT. Purdue. [LOCATION]()
 
-From [_The Strange Survival of Radio Drama_](https://www.bbc.com/historyofthebbc/100-voices/radio-reinvented/the-strange-survival-of-radio-drama/), BBC 100.
--->
+<h2><<< LIVE >>> 3-3:30 CDT/2000-2030 GMT October 8, 2022</h2>
 
-A workshop for [ISEA2022 Possibles](https://isea2022.isea-international.org/). June 11, 10-6pm CEST. [CCCB, Aula 1](https://www.cccb.org/es/servicios/alquiler-de-espacios/aula-1/9738)
-
-<!-- <h1><a href="https://s3.radio.co/s70d0dcdd7/listen" target="_blank"><<< LISTEN LIVE >>></a></h1> 5-5:30 CEST/1500-1530 GMT
--->
-
-<h2><<< LIVE >>> 5-5:30 CEST/1500-1530 GMT June 11 </h2>
-
-([listen to a two minute excerpt](https://drive.google.com/file/d/1cijx-0ws0JDobYhoJoyKRqjNfDxBqR1d))
-
-![Image](images/barca_girls_out.jpg)
 
 # Description
 
