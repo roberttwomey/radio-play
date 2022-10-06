@@ -18,7 +18,7 @@ With recent advancements in machine learning techniques, researchers have demons
 | 1:00 | Introduction - Background and Setup |
 | 1:15 | Activity: warming up our language engines (Discord). Discuss |
 | 1:30 | Writer's Room 1: Worldbuilding (small groups) |
-| 2:00 | econvene: share out and decide on concept, themes |
+| 2:00 | Reconvene: share out and decide on concept, themes |
 | 2:10 | Writer's Room 2: Developing scenes (small groups) |
 | 2:50 | Reconvene: share out scenes, sign up for production. Other elements (sponsor messages, etc.) |
 | 3:00 | assign “homework” and adjourn | 
@@ -28,10 +28,10 @@ With recent advancements in machine learning techniques, researchers have demons
 |    Time    | Activity |
 |------------|----|
 | 1:00 | Finalize Grid and Scripts, Interstitial Bits |
-| 1:20 |  Preproduction and wrangle audio assets, rehearse |
+| 1:20 | Preproduction and wrangle audio assets, rehearse |
 | 2:00 | Reconvene: check in |
-| 2:10 |  UPLOAD assets. Reconvene: Sequencing blocks, timing |
-| 2:50 |  Rehearsal and Sound Check |
+| 2:10 | UPLOAD assets. Reconvene: Sequencing blocks, timing |
+| 2:50 | Rehearsal and Sound Check |
 
 **Saturday, October 9 - Performance <br>**
 
