@@ -45,7 +45,7 @@ With recent advancements in machine learning techniques, researchers have demons
 - __Radio Play Slides__ ([google slides])
 - __Discord Server__ [https://discord.gg/NTpPVfRk](https://discord.gg/NTpPVfRk) ([download discord](https://discord.com/download))
 - __Radio Grids__ ([google sheets](https://docs.google.com/spreadsheets/d/1AqtKk70I5QVRfmMa-zgzIjq0kEZiDWMOadV1INNCnMk/edit?usp=sharing))
-- __OpenAI Beta__ [beta.openai.com/overview](https://beta.openai.com/overview)
+- __OpenAI GPT-3 overview__ [beta.openai.com/overview](https://beta.openai.com/overview)
 
 
 # References
