@@ -1,9 +1,7 @@
 Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.
   
-  [<<< STREAM LIVE >>>](https://s3.radio.co/s1fbdc4b4f/listen)
-  
-  Saturday October 8, 2022 3:00-3:30 EDT (1900-1930 GMT)
+<<< STREAM LIVE >>> Saturday October 8, 2022 3:00-3:30 EDT (1900-1930 GMT) (recording coming soon)
   
 
 <img src="images/radio_play_ep2.jpg">
