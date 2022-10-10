@@ -43,8 +43,8 @@ With recent advancements in machine learning techniques, researchers have demons
 | 4:00 | Adjourn | 
   
 # Tools and Resources
-- __Radio Play Slides__ ([google slides])
-- __Discord Server__ [https://discord.gg/NTpPVfRk](https://discord.gg/NTpPVfRk) ([download discord](https://discord.com/download))
+- __Radio Play Slides__ ([google slides](https://docs.google.com/presentation/d/1Pr-1U78ToNi3rX8oiTJYl173ckB7K7pEbHkF9hLSg7c/edit?usp=sharing)
+- __Discord Server__ [LINK REMOVED] ([download discord](https://discord.com/download))
 - __Radio Grids__ ([google sheets](https://docs.google.com/spreadsheets/d/1AqtKk70I5QVRfmMa-zgzIjq0kEZiDWMOadV1INNCnMk/edit?usp=sharing))
 - __OpenAI GPT-3 overview__ [beta.openai.com/overview](https://beta.openai.com/overview)
 
