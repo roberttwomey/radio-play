@@ -9,7 +9,7 @@ Episode 3: Paris, France [ISEA2023 Symbiosis](). May 20th, 0900-1700pm CEST. Loc
   
 # Description
 
-An introduction for writers, theater makers, and creatives to co-creation with generative AI through a hands-on workshop with GPT, culminating in a live, machine co-authored radio show. This project extends previous work in textual generation with speech synthesis and performative AI.
+An introduction for writers, theater makers, and performers to co-writing with generative AI. This hands-on workshop with GPT culminates in a live, collectively co-authored radio show performance and broadcast. We extend the textual generation from previous Radio Plays with the addition of speech synthesis and performative AI.
 
 # Schedule
 
