@@ -1,6 +1,4 @@
-Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
-Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.
-Episode 3: Paris, France [ISEA2023 Symbiosis](). May 20th, 0900-1700pm CEST. Location TBD.<br>
+A workshop for [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. West Lafayette, Indiana. October 7-8, 1:00-3:00 EDT.
 
 <<< STREAM LIVE >>> Saturday October 8, 2022 3:00-3:30 EDT (1900-1930 GMT) (recording coming soon)
   
