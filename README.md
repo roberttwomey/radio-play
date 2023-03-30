@@ -4,7 +4,7 @@ Episode 3: Paris, France [ISEA2023 Symbiosis](). May 20th, 0900-1700pm CEST. Loc
 
 <<< STREAM LIVE >>> Saturday May 20, 2023 1600-1630 CEST. (1800-1830 GMT)
 
-<img src="images/radio_play_ep2.jpg">
+<img src="images/radioplay-ISEA2023.jpg">
   
 # Description
 
