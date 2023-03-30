@@ -30,12 +30,12 @@ Saturday, May 20, 2023
 
   
 # Tools and Resources
-- __Radio Play Slides__ ([google slides](https://docs.google.com/presentation/d/1Pr-1U78ToNi3rX8oiTJYl173ckB7K7pEbHkF9hLSg7c/edit?usp=sharing)
+- __Radio Play Slides__ ([google slides TK]())
 - __Discord Server__ [LINK REMOVED] ([download discord](https://discord.com/download))
-- __Radio Grids__ ([google sheets](https://docs.google.com/spreadsheets/d/1AqtKk70I5QVRfmMa-zgzIjq0kEZiDWMOadV1INNCnMk/edit?usp=sharing))
+- __Radio Grids__ ([google sheets TK]())
 - __OpenAI GPT-3 overview__ [beta.openai.com/overview](https://beta.openai.com/overview)
 
-# Episodes
+# Previous Episodes
 Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.
 
