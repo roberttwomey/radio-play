@@ -1,9 +1,8 @@
-Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
-Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](ep2/) @ Purdue. October 7-8, 1:00-3:00 EDT.<br>
-Episode 3: Paris, France [ISEA2023 Symbiosis](). May 20th, 0900-1700pm CEST. Location TBD.<br>
+A workshop for [ISEA2023 Symbiosis](https://isea2023.isea-international.org/). May 20th, 1000-1800pm CEST. Location TBD.<br>
+
 <br>
 <br>
-<<< STREAM LIVE >>> Saturday May 20, 2023 1600-1630 CEST. (1800-1830 GMT)
+<h2> <<< STREAM LIVE >>> Saturday May 20, 2023 1600-1630 CEST. (1700-1730 GMT) </h2>
 
 <img src="images/radioplay-ISEA2023.jpg">
   
@@ -13,35 +12,24 @@ An introduction for writers, theater makers, and performers to co-writing with g
 
 # Schedule
 
-**Friday, October 8 - Session 1**
+Saturday, May 20, 2023
 
 |    Time    | Activity |
 |------------|----|
-| 1:00 | Introduction - Background and Setup |
-| 1:15 | Activity: warming up our language engines (Discord). Discuss |
-| 1:30 | Writer's Room 1: Worldbuilding (small groups) |
-| 2:00 | Reconvene: share out and decide on concept, themes |
-| 2:10 | Writer's Room 2: Developing scenes (small groups) |
-| 2:50 | Reconvene: share out scenes, sign up for production. Other elements (sponsor messages, etc.) |
-| 3:00 | assign “homework” and adjourn | 
-  
-**Saturday, October 9 - Session 2**
+| 10:00	| __Introduction__ <br>  Background and setup |
+| 10:30	| Activity: warming up our language engines (Discord). Discuss. |
+| 11:00	| __Writer's Rooms 1__: Worldbuilding (small groups) |
+| 11:45 | Reconvene: share out and decide on concept, themes |
+| 12:00	| __Writer's Rooms 2__: Developing scenes (small group) | 
+| 12:45 | Reconvene: share out scene progress, sign up for production. Other elements (sponsor messages, etc.)
+| 13:00	| ~ lunch break ~ |
+| 14:00 | __Pre-Production__: Peformance Planning  |
+| 15:00 | Reconvene: share out. Sequence blocks, timing. | 
+| 16:00 | Rehearsal and Sound Check | 
+| 17:00 | __Performance and Broadcast__ Performance and Live Internet Transmission | 
+| 17:30 | Debrief |
+| 18:00 | ~ wrap ~ |
 
-|    Time    | Activity |
-|------------|----|
-| 1:00 | Finalize Grid and Scripts, Interstitial Bits |
-| 1:20 | Preproduction and wrangle audio assets, rehearse |
-| 2:00 | Reconvene: check in |
-| 2:10 | UPLOAD assets. Reconvene: Sequencing blocks, timing |
-| 2:50 | Rehearsal and Sound Check |
-
-**Saturday, October 9 - Performance <br>**
-
-|    Time    | Activity |
-|------------|----|
-| 3:00 | Performance and Broadcast |
-| 3:30 | Debrief |
-| 4:00 | Adjourn | 
   
 # Tools and Resources
 - __Radio Play Slides__ ([google slides](https://docs.google.com/presentation/d/1Pr-1U78ToNi3rX8oiTJYl173ckB7K7pEbHkF9hLSg7c/edit?usp=sharing)
