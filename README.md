@@ -1,14 +1,15 @@
 Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
 Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](ep2/) @ Purdue. October 7-8, 1:00-3:00 EDT.<br>
 Episode 3: Paris, France [ISEA2023 Symbiosis](). May 20th, 0900-1700pm CEST. Location TBD.<br>
-
+<br>
+<br>
 <<< STREAM LIVE >>> Saturday May 20, 2023 1600-1630 CEST. (1800-1830 GMT)
 
 <img src="images/radioplay-ISEA2023.jpg">
   
 # Description
 
-With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer model (GPT-3) through a participatory, interactive event culminating in a live radio show and internet transmission. Participants will gain experience with Open AI's GPT-3 as members of an AI writers room. We will discuss issues of liveness and serendipity; possibilities for human/non-human co-authorship; and relate these computational processes to human language, perception, and embodiment. Please bring a text you would like to experiment with!
+An introduction for writers, theater makers, and creatives to co-creation with generative AI through a hands-on workshop with GPT, culminating in a live, machine co-authored radio show. This project extends previous work in textual generation with speech synthesis and performative AI.
 
 # Schedule
 
