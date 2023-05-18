@@ -47,10 +47,10 @@ Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.
   - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
   - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
-# Episode 3 Team
+# Team
 **Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
-**Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](https://www.grayscale64.com)<br>
+**Miller Puckette - Distinguished Professor Emeritus, UC San Diego. [http://msp.ucsd.edu/](http://msp.ucsd.edu/)<br>
 
 <br>
 <br>
