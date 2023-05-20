@@ -31,7 +31,7 @@ Saturday, May 20, 2023
   
 # Tools and Resources
 - __Discord__ please join our server with this link [https://discord.gg/BU6p7TyE](https://discord.gg/BU6p7TyE)
-  - download discord: [https://discord.com/](https://discord.com/)
+  - [download discord](https://discord.com/)
 - __ChatGPT__ [chat.openai.com](chat.openai.com)
   
 # References
