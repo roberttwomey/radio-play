@@ -16,7 +16,7 @@ Saturday, May 20, 2023
 |------------|----|
 | 10:00	| __Introduction__ - Background |
 | 10:45	| __Group Worldbuilding__ - Discord |
-| 11:00 | __Writer's Room_1__ |
+| 11:00 | __Writer's Room 1__ |
 | 12:00 | __Liveness__ - performing generated text|
 | 13:00 | __Sound__ - manipulating sound | 
 | 14:00 | ~ lunch break ~ |
