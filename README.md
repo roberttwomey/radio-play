@@ -14,11 +14,11 @@ Saturday, May 20, 2023
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Introduction__ Background |
+| 10:00	| __Introduction__ - Background |
 | 10:15	| __Group Worldbuilding__ - Discord |
 | 10:30 | __Writer's Room 1__ |
-| 11:30 | __Liveness__ performing generated text|
-| 12:30 | __Sound__ manipulating sound | 
+| 11:30 | __Liveness__ - performing generated text|
+| 12:30 | __Sound__ - manipulating sound | 
 | 13:00 | ~ lunch break ~ |
 | 14:15 | __Rehearsal__ |
 | 16:00 | Rehearsal and Sound Check | 
