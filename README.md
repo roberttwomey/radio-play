@@ -14,10 +14,10 @@ Saturday, May 20, 2023
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Introduction__ <br>  Background and setup |
-| 10:30	| Activity: warming up our language engines (Discord). Discuss. |
-| 11:00	| __Writer's Rooms 1__: Worldbuilding (small groups) |
-| 11:45 | Reconvene: share out and decide on concept, themes |
+| 10:00	| __Introduction__ <br>  Background |
+| 10:15	| __Group Worldbuilding__ - Discord |
+| 10:30 | __Writer's Rooms 1__: Worldbuilding (small groups) |
+| 11:30 | Reconvene: share out and decide on concept, themes |
 | 12:00	| __Writer's Rooms 2__: Developing scenes (small group) | 
 | 12:45 | Reconvene: share out scene progress, sign up for production. Other elements (sponsor messages, etc.)
 | 13:00	| ~ lunch break ~ |
@@ -30,28 +30,24 @@ Saturday, May 20, 2023
 
   
 # Tools and Resources
-- __Radio Play Slides__ ([google slides TK]())
-- __Discord Server__ [LINK REMOVED] ([download discord](https://discord.com/download))
-- __Radio Grids__ ([google sheets TK]())
-- __OpenAI GPT-3 overview__ [beta.openai.com/overview](https://beta.openai.com/overview)
-
-# Previous Episodes
-Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
-Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.
-
+- __Discord__ please join our server with this link [https://discord.gg/BU6p7TyE](https://discord.gg/BU6p7TyE)
+  - download discord: [https://discord.com/](https://discord.com/)
+- __ChatGPT__ [chat.openai.com](chat.openai.com)
   
 # References
-- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
-- To familiarize yourself with GPT-3, sign up for the beta ([openai.com/api](https://openai.com/api)), and work through these simple AI playground examples: https://beta.openai.com/examples.
-  - Chat: https://beta.openai.com/examples/default-chat
-  - Science Fiction Book List: https://beta.openai.com/examples/default-sci-fi-book-list
-  - Advertisement from Product Description: https://beta.openai.com/examples/default-ad-product-description
 
-# Team
+  # Team
 **Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Miller Puckette** - Distinguished Professor Emeritus, UC San Diego - [http://msp.ucsd.edu/](http://msp.ucsd.edu/)<br>
 
+# References
+- ChatGPT: [online](https://chat.openai.com/auth/login)
+- OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
+- Previous Episodes:
+  - Episode 1: Barcelona, Spain [ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
+  - Episode 2: West Lafayette, Indiana [SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.
+  
 <br>
 <br>
 
