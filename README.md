@@ -14,21 +14,18 @@ Saturday, May 20, 2023
 
 |    Time    | Activity |
 |------------|----|
-| 10:00	| __Introduction__ <br>  Background |
+| 10:00	| __Introduction__ <br> Background |
 | 10:15	| __Group Worldbuilding__ - Discord |
-| 10:30 | __Writer's Rooms 1__: Worldbuilding (small groups) |
-| 11:30 | Reconvene: share out and decide on concept, themes |
-| 12:00	| __Writer's Rooms 2__: Developing scenes (small group) | 
-| 12:45 | Reconvene: share out scene progress, sign up for production. Other elements (sponsor messages, etc.)
-| 13:00	| ~ lunch break ~ |
-| 14:00 | __Pre-Production__: Peformance Planning  |
-| 15:00 | Reconvene: share out. Sequence blocks, timing. | 
+| 10:30 | __Writer's Room 1__ |
+| 11:30 | __Liveness__ performing generated text|
+| 12:30 | __Sound__ manipulating sound | 
+| 13:00 | ~ lunch break ~ |
+| 14:15 | __Rehearsal__ |
 | 16:00 | Rehearsal and Sound Check | 
 | 17:00 | __Performance and Broadcast__ Performance and Live Internet Transmission | 
 | 17:30 | Debrief |
 | 18:00 | ~ wrap ~ |
 
-  
 # Tools and Resources
 - __Discord__ please join our server with this link [https://discord.gg/BU6p7TyE](https://discord.gg/BU6p7TyE)
   - [download discord](https://discord.com/)
