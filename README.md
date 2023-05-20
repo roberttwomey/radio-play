@@ -30,10 +30,8 @@ Saturday, May 20, 2023
 - __Discord__ please join our server with this link [https://discord.gg/BU6p7TyE](https://discord.gg/BU6p7TyE)
   - [download discord](https://discord.com/)
 - __ChatGPT__ [chat.openai.com](chat.openai.com)
-  
-# References
 
-  # Team
+# Team
 **Ash Smith** - Story, Worlds, Speculative Design Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 **Miller Puckette** - Distinguished Professor Emeritus, UC San Diego - [http://msp.ucsd.edu/](http://msp.ucsd.edu/)<br>
