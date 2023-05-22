@@ -1,8 +1,8 @@
 A workshop for [ISEA2023 Symbiosis](https://isea2023.isea-international.org/). Saturday, May 20th. 0900-1800pm CEST. Salle 50.<br>
 
-<h2> <<< STREAM LIVE >>> 1700-1730 CEST. (1500-1530 GMT) May 20 </h2>
+<h2> <<< STREAM ENDED >>> 1700-1730 CEST. (1500-1530 GMT) May 20 </h2>
 
-<img src="images/radioplay-ISEA2023.jpg">
+<img src="images/radio-play-logo-isea2023.jpg">
   
 # Description
 
