@@ -28,11 +28,13 @@ This radio play is in mid-development as a collaboration between Ash Eliza Smith
 - Technical prototyping
 - Design Workshop 
 - Remote Table Reads and tests (with local Berlin talent)
+
 **Final production phase** (residency in Berlin): January 2024
 - Work with local talent (voice and sound)
 - refining script
 - proving software systems for realtime performance
 - finalize musical score
+
 **Presentation**
 - CTM 2024 Festival: 26 January – 4 February 2024
 - Apply for more funding/support
