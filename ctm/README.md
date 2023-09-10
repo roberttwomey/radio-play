@@ -1,5 +1,4 @@
-# Theater of Latent Possibilities
-# Proposal for CTM Radio Lab: Sustain
+# Theater of Latent Possibilities <br> Proposal for CTM Radio Lab: Sustain
 
 # Description
 
