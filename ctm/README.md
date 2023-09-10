@@ -12,7 +12,7 @@ The radio performance will integrate contemporary language generation models int
 
 Drawing on the mission of the tekhné project, our radio performance explores the immanent changes wrought by generative AI—demonstrating possible models for creative symbiosis in human/non-human co-authorship and exploring new ideas of performance and collective imagination in the age of intelligent machines. Our theater's human and non-human participants collectively establish, refine, and perform an emergent text, illuminating ecological futures and technological possibilities. Through participatory co-authorship, we invent new worlds and create symbiotic imaginaries, imagining ecological futures that resonate with the theme SUSTAIN. 
 
-##Radio as Speculative Design
+## Radio as Speculative Design
 
 The Theater of All Possibilities used theater and performance to prototype design fictions and art-science experiments. Their speculative designs have present-day impact, from building the research vessel Heraclitus to building hotels in Nepal and creating Biosphere 2. For CTM’s Radio Lab: Sustain, we embrace and extend the ambition of this group, testing the power of radio drama to imagine possible futures, creating a new radio drama from the latent possibilities of this group.
 
@@ -38,7 +38,6 @@ This radio play is in mid-development as a collaboration between Ash Eliza Smith
 - Apply for more funding/support
 - Deutschlandfunk Kultur – Klangkunst radio broadcast: Spring 2024
 - Presentation via ORF: Autumn 2024
-
 
 # Technical Requirements
 
