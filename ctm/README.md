@@ -60,4 +60,4 @@ Residency and Performance
 <br>
 <br>
 
-_This workshop is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
+_This project is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
