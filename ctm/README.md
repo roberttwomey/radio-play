@@ -1,5 +1,7 @@
 # Theater of Latent Possibilities <br> Proposal for CTM Radio Lab: Sustain
 
+| [Description](#description) | [Timeline](#timeline) | [Technical Requirements](#technical-requirements) |
+
 # Description
 
 Our Radio Play is rooted in the work and archives of the Theater of All Possibilities (TAP) and the Institute of Ecotechnics (IE)—an artistic practice network and touring theater founded in 1967 in San Francisco by Kathelin Gray and others. Most famous for creating Biosphere 2 in Oracle, Arizona, the group worked with international collaborators from the sciences, technology, history, and ecology to rehearse and deploy sustainable ecological futures. Their archives are based at Synergia Ranch near Santa Fe, New Mexico, where we conducted initial onsite research in February 2023. Other projects of note include the Research Vessel Heraclitus, which has sailed around the world (12 trips around the world and still going), and the Hotel Vajra in Kathmandu. 
