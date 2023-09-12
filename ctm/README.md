@@ -1,6 +1,6 @@
 # Theater of Latent Possibilities <br> Proposal for CTM Radio Lab: Sustain
 
-| [Description](#description) | [Timeline](#timeline) | [Technical Requirements](#technical-requirements) |
+[Description](#description) - [Timeline](#timeline) - [Technical Requirements](#technical-requirements)
 
 # Description
 
