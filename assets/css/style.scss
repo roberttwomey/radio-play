@@ -8,6 +8,10 @@ header {
 
 }
 
+a:hover, a:focus {
+    color: #069;
+}
+
 header, section, footer {
     float: none;
     position: static;
