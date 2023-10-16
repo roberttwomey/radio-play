@@ -27,5 +27,7 @@ Collaborators<br>
 **Hernan Woodgate** - Radio Espacio Estación - [radioee.net](radioee.net)<br>
 **Patrick Coleman** - Arthur C. Clarke Center for Human Imagination, UCSD - [patrickcoleman.org](patrickcoleman.org)<br>
 
+# References
+- Read more about the project here: [https://roberttwomey.com/radio-play](https://roberttwomey.com/radio-play)
 <br>
 _This project is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
