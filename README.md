@@ -28,7 +28,7 @@ Collaborators<br>
 **Patrick Coleman** - Arthur C. Clarke Center for Human Imagination, UCSD - [patrickcoleman.org](patrickcoleman.org)<br>
 
 # References
-- Read more about the project here: [https://roberttwomey.com/radio-play](https://roberttwomey.com/radio-play)
+Read more about the project here: [https://roberttwomey.com/radio-play](https://roberttwomey.com/radio-play)
 
 <br>
 
