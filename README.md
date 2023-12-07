@@ -1,6 +1,6 @@
 # Description
 
-_AI Radio Play: Live Participatory Worldbuilding with GPT-3_ is an introduction for writers, theater makers, and creatives to generative text through a hands-on workshop culminating in a live, machine co-authored radio show.
+_AI Radio Play: Live Participatory Worldbuilding with GPT_ is an introduction for writers, theater makers, and creatives to generative text through a hands-on workshop culminating in a live, machine co-authored radio show.
 
 Recent advancements with large language models demonstrate remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer models (GPT) through an interactive event culminating in a live radio performance and internet broadcast. Participants gain experience with collaborative worldbuilding, liveness and improv, and collective co-authorship with AI, particularly the variation induced through the unknowable contributions of improvisatory humans and large language models.
 
