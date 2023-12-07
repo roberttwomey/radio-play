@@ -32,5 +32,4 @@ Recent advancements with large language models demonstrate remarkable achievemen
 # References
 Read more about the project here: [https://roberttwomey.com/radio-play](https://roberttwomey.com/radio-play)
 
-<br>
 _This project is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
