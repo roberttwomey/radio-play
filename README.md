@@ -15,11 +15,11 @@ An introduction for writers, theater makers, and performers to co-writing with g
 <img src="images/radio-play-logo-isea2023.jpg" width=400>
 
 # Team
-Leads<br>
+### Leads
 **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
 
-Collaborators<br>
+### Collaborators
 **Miller Puckette** - Distinguished Professor Emeritus, UC San Diego - [http://msp.ucsd.edu/](http://msp.ucsd.edu/)<br>
 **Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](www.grayscale64.com)<br>
 **Stephanie Sherman** - Central St. Martins MA Narrative Environments, Radio Espacio Estación - [stephaniesherman.info](stephaniesherman.info)<br>
