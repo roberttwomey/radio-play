@@ -1,6 +1,8 @@
 # Description
 
-An introduction for writers, theater makers, and performers to co-writing with generative AI. This hands-on workshop with GPT culminates in a live, collectively co-authored radio show performance and broadcast. We extend the textual generation from previous Radio Plays with the addition of speech synthesis and performative AI.
+_AI Radio Play: Live Participatory Worldbuilding with GPT-3_ is an introduction for writers, theater makers, and creatives to generative text through a hands-on workshop culminating in a live, machine co-authored radio show.
+
+Recent advancements with large language models demonstrate remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer models (GPT) through an interactive event culminating in a live radio performance and internet broadcast. Participants gain experience with collaborative worldbuilding, liveness and improv, and collective co-authorship with AI, particularly the variation induced through the unknowable contributions of improvisatory humans and large language models.
 
 # Episode 1
 [Episode 1 Barcelona, Spain ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
