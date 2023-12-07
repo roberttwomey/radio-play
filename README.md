@@ -7,7 +7,7 @@ An introduction for writers, theater makers, and performers to co-writing with g
 <img src="ep1/images/barca_girls_out.jpg" width=400>
 
 # Episode 2
-[Episode 2 West Lafayette, Indiana SLSA 2022 Reading Minds](https://litsciarts.org/slsa2022/) @ Purdue. October 7-8, 1:00-3:00 EDT.<br>
+[Episode 2 West Lafayette, Indiana SLSA 2022 Reading Minds](ep2/) @ Purdue. October 7-8, 1:00-3:00 EDT.<br>
 <img src="ep2/images/radio_play_ep2.jpg" width=400>
 
 # Episode 3
