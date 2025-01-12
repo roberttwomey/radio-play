@@ -2,7 +2,7 @@
 
 <h2> <<< STREAM HERE >>> 1700-1800 CEST. January 23, 2025 </h2>
 
-![alt text](images/davinci.png)
+![alt text](../images/davinci.png)
 
 Leonardo da Vinci was an artist and inventor ahead of his time, a speculative designer of machines and inventions that were too sophisticated to be realized in his day.
 
@@ -24,4 +24,6 @@ Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learni
 
 # References
 - Previous [AI Radio Theater performances](../all_episodes.md).
-- _This project is made possible through generous support from [the Johnny Carson Center for Emerging Media Arts](https://carsoncenter.unl.edu/), [Nebraska Public Media](https://nebraskapublicmedia.org/en/watch/community-engagement/leonardo-da-vinci/), the [Sheldon Museum of Art](https://sheldonartmuseum.org/), the [Department of Visual Arts at UC San Diego](https://visarts.ucsd.edu/), and the [Osher Lifelong Learning Institute at the University of Nebraska-Lincoln](https://olli.unl.edu/)._
+- [Sheldon Museum of Art](https://sheldonartmuseum.org/art-and-machine-live-radio-theater-event-inspired-leonardo-da-vinci/)
+
+_This project is made possible through generous support from [the Johnny Carson Center for Emerging Media Arts](https://carsoncenter.unl.edu/), [Nebraska Public Media](https://nebraskapublicmedia.org/en/watch/community-engagement/leonardo-da-vinci/), the [Sheldon Museum of Art](https://sheldonartmuseum.org/), the [Department of Visual Arts at UC San Diego](https://visarts.ucsd.edu/), and the [Osher Lifelong Learning Institute at the University of Nebraska-Lincoln](https://olli.unl.edu/)._
