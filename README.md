@@ -16,7 +16,7 @@ Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learni
 
 # Team
 - **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
-- **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
+- **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Visual Arts, UCSD - [roberttwomey.com](https://roberttwomey.com)<br>
 - Reid Brockmeier
 - Sam
 - Hank
