@@ -1,35 +1,27 @@
 # Description
 
-_AI Radio Play: Live Participatory Worldbuilding with GPT_ is an introduction for writers, theater makers, and creatives to generative text through a hands-on workshop culminating in a live, machine co-authored radio show.
+<h2> <<< STREAM HERE >>> 1700-1800 CEST. January 23, 2025 </h2>
 
-Recent advancements with large language models demonstrate remarkable achievements in text synthesis, understanding, and generation. This hands-on workshop introduces state-of-the-art transformer models (GPT) through an interactive event culminating in a live radio performance and internet broadcast. Participants gain experience with collaborative worldbuilding, liveness and improv, and collective co-authorship with AI, particularly the variation induced through the unknowable contributions of improvisatory humans and large language models.
+![alt text](images/davinci.png)
 
-# Episode 1
-[Episode 1 Barcelona, Spain ISEA2022 Possibles](ep1/). June 11, 10-6pm CEST. CCCB.<br>
-<img src="ep1/images/barca_girls_out.jpg" width=400>
+Leonardo da Vinci was an artist and inventor ahead of his time, a speculative designer of machines and inventions that were too sophisticated to be realized in his day.
 
-# Episode 2
-[Episode 2 West Lafayette, Indiana SLSA 2022 Reading Minds](ep2/) @ Purdue. October 7-8, 1:00-3:00 EDT.<br>
-<img src="ep2/images/radio_play_ep2.jpg" width=400>
+Join us for a free live performance event inspired by his boundary-pushing curiosity about wind, birds and flying machines, featuring an original radio theater production co-created by OLLI at UNL members and generative AI under the guidance of artists Ash Eliza Smith, Robert Twomey, and their team of artists, researchers and students from the Johnny Carson Center for Emerging Media Arts.
 
-# Episode 3
-[Episode 3 Paris, France ISEA2023 Symbiosis](ep3/). May 16-21, 2023. Forum des Images.<br>
-<img src="images/radio-play-logo-isea2023.jpg" width=400>
+The evening will also feature an excerpt from the recent PBS documentary Leonardo da Vinci that inspired the radio play, plus insights into this unique artistic process that merges human creativity with artificial intelligence.
+
+**Community Partners**
+
+Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learning Institute (OLLI at UNL) and the Johnny Carson Center for Emerging Media Arts at UNL. A Speculative Devices and Cohab Labs co-production.
 
 # Team
-### Leads
-**Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
-**Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
-
-### Collaborators
-**Miller Puckette** - Distinguished Professor Emeritus, UC San Diego - [http://msp.ucsd.edu/](http://msp.ucsd.edu/)<br>
-**Jinku Kim** - Johnny Carson for Emerging Media Arts, UNL - [www.grayscale64.com](www.grayscale64.com)<br>
-**Stephanie Sherman** - Central St. Martins MA Narrative Environments, Radio Espacio Estación - [stephaniesherman.info](stephaniesherman.info)<br>
-**Agustina Woodgate** - Radio Espacio Estación - [agustinawoodgate.com](agustinawoodgate.com)<br>
-**Hernan Woodgate** - Radio Espacio Estación - [radioee.net](radioee.net)<br>
-**Patrick Coleman** - Arthur C. Clarke Center for Human Imagination, UCSD - [patrickcoleman.org](patrickcoleman.org)<br>
+- **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
+- **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Johnny Carson for Emerging Media Arts, UNL - [roberttwomey.com](https://roberttwomey.com)<br>
+- Reid Brockmeier
+- Sam
+- Hank
+- Wyatt
 
 # References
-Read more about the project here: [https://roberttwomey.com/radio-play](https://roberttwomey.com/radio-play)
-
-_This project is made possible through generous support from the Johnny Carson Center for Emerging Media Arts_
+- Previous [AI Radio Theater performances](all_episdoes.md).
+- _This project is made possible through generous support from [the Johnny Carson Center for Emerging Media Arts](https://carsoncenter.unl.edu/), [Nebraska Public Media](https://nebraskapublicmedia.org/en/watch/community-engagement/leonardo-da-vinci/), the [Sheldon Museum of Art](https://sheldonartmuseum.org/), the [Department of Visual Arts at UC San Diego](https://visarts.ucsd.edu/), and the [Osher Lifelong Learning Institute at the University of Nebraska-Lincoln](https://olli.unl.edu/)._
