@@ -23,5 +23,5 @@ Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learni
 - Wyatt
 
 # References
-- Previous [AI Radio Theater performances](all_episodes.md).
+- Previous [AI Radio Theater performances](../all_episodes.md).
 - _This project is made possible through generous support from [the Johnny Carson Center for Emerging Media Arts](https://carsoncenter.unl.edu/), [Nebraska Public Media](https://nebraskapublicmedia.org/en/watch/community-engagement/leonardo-da-vinci/), the [Sheldon Museum of Art](https://sheldonartmuseum.org/), the [Department of Visual Arts at UC San Diego](https://visarts.ucsd.edu/), and the [Osher Lifelong Learning Institute at the University of Nebraska-Lincoln](https://olli.unl.edu/)._
