@@ -1,6 +1,6 @@
 # Description
 
-<h2> <<< STREAM HERE >>> 1700-1800 CEST. January 23, 2025 </h2>
+<h2> <<< STREAM HERE >>> 1730-1900 CST. January 23, 2025 </h2>
 
 ![alt text](../images/davinci.png)
 
